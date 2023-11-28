@@ -113,6 +113,25 @@
             }
         }
 
+        public double getR()
+        {
+            return this.r;
+        }
+
+        public void setR(double r)
+        { 
+            this.r = r;
+        }
+
+        public double getFi()
+        {
+            return this.fi;
+        }
+
+        public void setFi(double fi)
+        { 
+            this.fi = fi; 
+        }
 
     }
 }
